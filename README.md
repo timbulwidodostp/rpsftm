@@ -1,6 +1,8 @@
 # rpsftm
 Rank-preserving structural failure time models for survival data Use rpsftm With (In) R Software
 
+https://www.youtube.com/watch?v=kX2-vvebN7o
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
